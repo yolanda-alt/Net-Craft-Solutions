@@ -1,0 +1,19 @@
+body{
+    background-image: url(960x0.jpg)
+}
+logo{
+    width: 10px; height: 10px;
+}
+
+nav {
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.navList {
+
+    margin: 10px;
+    list-style: none;
+
+}
